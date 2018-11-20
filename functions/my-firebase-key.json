@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbotsi-intets-especificos",
+  "private_key_id": "e8bae3a5ffd3720a4ad4099ab631ed79daf8012c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfzZbg67ddDz8y\nQfHo0tGLF1zNCRGDnFisaqvFX/3Ly8+LqalERUfp1hQITzRGPKkIcQh+wbphB+bZ\nZd4/XqEGpAD48K5A5WSb1WNLt0bU42ZrTlMQb/eUtoEOsttdfg6xKvC1I9LZZ902\nTt8LAtImwox7b08ns3bXEelJ1lH4/O2uSucYJXwapWnBkkODO5hZXX3ZnZb9Sn3k\nQrxDxrEt9gOfmG5VOdBeiz0TFUdWbT+iqXJdowXupEgf6oxHWjHecpPNk8Qbw7K3\nko/V0x3wdJYjXts0HmWXj4W6dMNGD5xJGnpR9VL6/61hQ44YIILSabK6UfYx9/OA\nV6ig4/yPAgMBAAECggEABVqRJR7wjcqFeiOj4abpVrauTZrNPnvCh1cZjEbIqJl1\nyYfZG4ylOceJ9Gq9wNDvl/UFf3tf7aXZxCbwnW519i/Hbf1gjJOeSzQ/m+Jt0Nw2\nWJD8/Ld94XFgIahvWW4ChCSTNzHNIGGlgSFaU8UKNczwE8wEqF+iDo4ckKs3bSA8\n1Rz53oafL1zY98h7jOK1+65yMMEqNVakobVAkeCttwIPf3muEzTwkFheSO5t0aZD\nCCypV7Z2WiC1tfVbuxQVkqnrLwu5neyIJE+P++plKhdCokEfb2i8ApWx3zTUJwjO\ntzNTWzRgGaR2fcXL1TrPdK5kHFwCfsgegQsQMf38oQKBgQDgdvI7bWVdQYFI3kkG\n7Dg97zHmrJ0sHVhYe7eUuawzwpxfxbxP1hEH8q72FSv4M+b2eN7aw+xIVCu3AJ9e\nck90P0iQb3mBEOZJehUj7ziftidI5L7Zgtkmhi8THgqzp8qWn7lf6yioZOG/K+GV\n6LPqlDDYo2GEEZqHz+iPpp/u4QKBgQC2QQmnosxQOC/XSwk4f90VdivOKxpfVwGZ\nL/353GPooZnkKlbcwkhhvCTK00mrmhMT2ojUs8ujBqe5JP+tvEdisvPuWfUbiGc5\n/N9rC6lMsX7Pwx8Y+W5a+MJ9+26f6WC5zsBasQ0w3jCi/GSJ9W9c7kOvpz6H+HfJ\npT3KulWJbwKBgACj9j77Ke3hMPg/QiAV7ncmxpKs7Wnhz425FKYE/ZvMM1wGmWn0\n52mJZLxpBQ4ZP9B2OdSP+I2gR9um0c2YL+faAl//IW6f2Lhe8859cUDraSNJG85N\nFEeK3HmGfWtT0D0ryYCfkCci2o4MFwGxf0ntEFKd7LpOvo0ip7w5Mn2hAoGAbFvs\n1puHaGaPoyx81ffHxbvVvaWI74h2bdLH6SesyyJRsgOuU2C70kgfg+vtkDZyA0ra\nMcSYXVxWmlCyJ2Sa+Ma3G06m2XDXFvYPC8EKLowVfodfVOTwROxEDs1P74m9NZwE\nZ6d+1UA1oKH5UMD5LkKHQcdo+US0S9KQE5mHw8cCgYEAtq08EutHD0v4iXVESYTk\nciHWP/Vks9VaYRvQz3ZJdud0b/EMqRvqHzV3YhYaEJK2xpJhIrix06UQD1KBGXSB\nwTNBFhOivqhCQKSbFrIE8V9K0haO5m5ITebZg9LV/oV5lzwErSB0KAkktpXG1YaT\n+prsh2fZbMZnc5FDLQ7WXaw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-35hui@chatbotsi-intets-especificos.iam.gserviceaccount.com",
+  "client_id": "112450157140437465829",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-35hui%40chatbotsi-intets-especificos.iam.gserviceaccount.com"
+}
